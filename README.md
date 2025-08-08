@@ -6,7 +6,7 @@ Welcome to the repository for my personal webpage! This repository serves as a s
 
 Click the link below to visit my personal website:
 
-[My Webpage](https://temal4800.github.io/malte.grieswelle/index.html)
+[My Webpage](https://maltegrieswelle.github.io/)
 
 ## About the Webpage
 
